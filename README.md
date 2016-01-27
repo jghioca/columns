@@ -1,3 +1,5 @@
+# Columns
+
 ## Are you tired of dropping enormous CSS frameworks onto your project just so you can create columns easily?
 
 You're in the right place because this library is the best thing since sliced bread. You don't have to remember those weird class names and litter them all over your HTML when creating different sized columns.
