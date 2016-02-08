@@ -10,7 +10,7 @@ It's dead simple! The [demo](demo.html) page demonstrates how to use this shit. 
 
 ### How do I import this into my project?
 
-Once you have downloaded it you can drop the _columns.scss file into your SCSS folder and toward the top of your main SCSS file write:
+Once you have downloaded it, you can drop the _columns.scss file into your SCSS folder and toward the top of your main SCSS file write:
 
 `@import 'columns';`
 
