@@ -2,11 +2,11 @@
 
 ## Are you tired of dropping enormous CSS frameworks onto your project just so you can create columns easily?
 
-You're in the right place because this library is the best thing since sliced bread. You don't have to remember those weird class names and litter them all over your HTML when creating different sized columns.
+You're in the right place because this library is the best thing since sliced bread. It's great because you don't have to remember those weird class names that certain frameworks make you use and you don't have to litter them all over your HTML when creating different sized columns.
 
 ### How the hell do I use this?!
 
-It's dead simple! The [demo](demo.html) page demonstrates how to use this shit. Go on, let that knowledge flow into you. Fuck yeah!
+It's dead simple! The [demo](demo.html) page demonstrates how to use this shit. Go on, let that knowledge flow into you. Once you have downloaded it, you can drop the _columns.scss file into your SCSS folder and toward the top of your main SCSS file write:
 
 ### How do I import this into my project?
 
