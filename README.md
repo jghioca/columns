@@ -18,7 +18,7 @@ Once you have downloaded it, you can drop the _columns.scss file into your SCSS 
 
 ### Author
 
-Feel free to contact me, John Ghioca, via twitter at [@jghioca](https://twitter.com/jghioca) or using the form on [john.ghioca.com](http://johnghioca.com/) if you have any questions. You can also contact me if you would like to submit a bug or have a feature request.
+Feel free to contact me, John Ghioca, via twitter at [@jghioca](https://twitter.com/jghioca) or using the form on [johnghioca.com](http://johnghioca.com/) if you have any questions. You can also contact me if you would like to submit a bug or have a feature request.
 
 ### License
 
