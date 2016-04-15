@@ -2,7 +2,7 @@
 
 ## Do you want to avoid using enormous CSS frameworks in your project just so you can create columns easily?
 
-With this mixin, you don't have to memorise class names that certain frameworks make you use and you don't have to litter them all over your HTML when creating different sized columns.
+With this lightweight SCSS mixin library you can easily create columns without having to include frameworks that make you look up or memorise class names just so you can create different sized columns on your web page.
 
 ### How the hell do I use this?!
 
@@ -20,7 +20,7 @@ Example: `@import 'path/to/columns';`
 
 ### Author
 
-Feel free to contact me, John Ghioca, via twitter at [@jghioca](https://twitter.com/jghioca) or using the form on [johnghioca.com](http://johnghioca.com/) if you have any questions. You can also contact me if you would like to submit a bug or have a feature request.
+You can contact me, John Ghioca, via twitter at [@jghioca](https://twitter.com/jghioca) or using the form on [johnghioca.com](http://johnghioca.com/).
 
 ### License
 
