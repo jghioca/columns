@@ -2,7 +2,7 @@
 
 ## A super easy way to create columns on your web page.
 
-With this lightweight SCSS mixin library you can create columns on your web page with ease. You don't need to rely on including bulky frameworks that have you add class names in your markup just so you can create different sized columns.
+With this lightweight SCSS mixin library you can create columns on your web page with ease. You don't need to rely on including bulky frameworks, which usually have you add class names in your markup, just so you can create different sized columns.
 
 ### How the hell do I use this?!
 
