@@ -6,7 +6,7 @@ With this lightweight SCSS mixin library you can create columns on your web page
 
 ### How the hell do I use this?!
 
-It's dead simple! The [demo](demo.html) page will give you an explanation.
+It's dead simple! The [demo](http://johnghioca.com/columns/demo/) page will give you an explanation.
 
 ### How do I import this into my project?
 
