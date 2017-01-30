@@ -24,4 +24,4 @@ You can contact me, John Ghioca, via twitter at [@jghioca](https://twitter.com/j
 
 ### License
 
-Copyright (c) 2016 John Ghioca Licensed under the MIT license.
+Copyright (c) 2017 John Ghioca Licensed under the MIT license.
