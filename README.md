@@ -6,7 +6,7 @@ With this lightweight SCSS mixin library you can create columns on your web page
 
 ### How the hell do I use this?!
 
-It's dead simple! The [demo](http://johnghioca.com/columns/demo/) page will give you an explanation.
+It's dead simple! The [demo](http://www.johnghioca.com/columns/demo/) page will give you an explanation.
 
 ### How do I import this into my project?
 
@@ -20,7 +20,7 @@ Example: `@import 'path/to/columns';`
 
 ### Author
 
-You can contact me, John Ghioca, via twitter at [@jghioca](https://twitter.com/jghioca) or using the form on [johnghioca.com](http://johnghioca.com/).
+You can contact me, John Ghioca, via twitter at [@jghioca](https://twitter.com/jghioca) or using the form on [johnghioca.com](http://www.johnghioca.com/).
 
 ### License
 
