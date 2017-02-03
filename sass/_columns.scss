@@ -1,0 +1,23 @@
+// Percentage column system for responsive design
+// @include col(x cols, out of y cols, optional margin-right value);
+// NOTE: margin-right must be percentage ex. 5%
+@mixin col($numerator: 1, $denominator: 1, $margin-right: 0%) {
+    float: left;
+    clear: right;
+    @include colspan($numerator, $denominator, $margin-right);
+}
+// Calculate the width of the column
+@mixin colspan($numerator, $denominator, $margin-right) {
+    width: (calc-one-col-width($denominator, $margin-right) * $numerator) + ($margin-right * ($numerator - 1));
+    @if $margin-right != 0% {
+        margin-right: $margin-right;
+    }
+}
+// This is for the last column
+@mixin last() {
+    margin-right: 0;
+}
+// Calculate the width of one column without the margin included
+@function calc-one-col-width($denominator, $margin-right) {
+    @return (100 / $denominator) - ($margin-right * ($denominator - 1) / $denominator);
+}
