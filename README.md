@@ -20,7 +20,7 @@ Example: `@import 'path/to/columns';`
 
 ### Author
 
-You can contact me, John Ghioca, via twitter at [@jghioca](https://twitter.com/jghioca) or using the form on [johnghioca.com](http://www.johnghioca.com/).
+You can contact me using the form on [johnghioca.com](http://www.johnghioca.com/).
 
 ### License
 
